@@ -1,0 +1,6 @@
+destination: ../deploy/epg
+site:
+  title: EPG DonNTU site
+  description: Сайт кафедры электроснабжения промышленный предприятий и городов
+  base_url: https://burrbull.github.io/epg
+  data:
