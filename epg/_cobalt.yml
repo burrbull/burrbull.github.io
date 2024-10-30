@@ -1,4 +1,4 @@
-destination: ../deploy/epg
+destination: ../docs/epg
 site:
   title: EPG DonNTU site
   description: Сайт кафедры электроснабжения промышленный предприятий и городов

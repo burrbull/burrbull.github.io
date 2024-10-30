@@ -5,8 +5,6 @@ working:
   - shlepnyov
   - levshov
   - yakimishina
-  - chursinov
-  - chursinova
   - zgarbul
   - khaliavinskaia
   - sechina
@@ -265,7 +263,7 @@ larina:
     name: Лариса
     thirdname: Андреевна
     initials: Л.А.
-    post: Лаборатнт кафедры ЭПГ
+    post: Лаборант кафедры ЭПГ
     post_short: лаборант
   en:
     surname: Larina
